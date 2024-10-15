@@ -5,6 +5,7 @@ Here are some key components:
 
 Header and Navbar:
 A navigation bar at the top allows users to switch between different pages (e.g., Employee Cards, Product Layout, etc.).
+
 Employee Cards:
 Each employee card contains an image, a job title, net worth, and a button to view the employee's profile. The cards are styled to be responsive, adjusting their layout on smaller screens.
 The CSS makes use of flexible layouts (flex-wrap, justify-content, etc.), ensuring that the cards are arranged neatly in different screen sizes. Hover effects (box-shadow, color changes) enhance interactivity.
